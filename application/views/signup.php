@@ -140,6 +140,13 @@ $( "#form2" ).validate({
 
 			<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 				<div class="facts">
+
+
+
+
+
+
+
 					<!--login1-->
 					<div class="register">
 						<form action="<?php echo base_url('index.php/designerctrl/custsignup');?>" method="post" name="form1" id="form1" >
